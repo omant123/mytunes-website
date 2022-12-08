@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.he{
+    display: flex;
+    background-color: purple;
+    
+    border: 1px solid gray;
+    height: 92px;
+}
+.ad
+{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    min-width: 90vw;
+}
+ul{
+    display: flex;
+    align-items: center;
+    gap: 29px;
+    font-size: larger;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    
+    list-style: none;
+}
+.logo{
+    font-size: 28px;
+    margin-left: 46px;
+    color: white;
+    margin-top: 27px;
+}
+.aa{
+    background-image: url('https://practice-project-html-css.vercel.app/Project%206/images/hero_image.png');
+    height: 130vh;
+    position: relative;
+
+}
+.b{
+    width: 80vw;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
+h1{
+    font-size: 100px;
+    margin-bottom: 57px;
+
+}
+h3{
+    font-size: 34px;
+    margin-bottom: 50px;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 36px;
+}
+.d{
+    background-color: purple;
+    color: white;
+    height: 120vh;
+    text-align: center;
+}
+.e{
+    width: 80vw;
+    margin: 0 auto;
+}
+button{
+    background-color: red;
+    color: white;
+    
+    height: 30px;
+    margin-bottom: 20px;
+}
+.sub{
+   padding-top: 112px;
+}
+.q{width: 80vw;
+    margin: 0 auto;
+    padding-top: 425px;
+    text-align: center;
+}
+.bu{
+    background-color: purple;
+    color: white;
+    width: 79px;
+}
+.mac{
+    align-items: center;
+    width: 80vw;
+    margin: 0 auto;
+    margin-top: 64px;
+}
+.im{
+    background-image: url("https://practice-project-html-css.vercel.app/Project%206/images/video.png");
+    height: 100vh;
+    position: relative;
+    margin-top: 64px;
+    background-repeat: no-repeat;
+}
+.mm{
+    text-align: center;
+    width: 80vw;
+    margin: 0 auto;
+    color: white;
+    padding-top: 150px;
+}
+.gf{
+    width: 80vw;
+    margin: 0 auto;
+    gap: 74px;
+    display: flex;
+    margin-top: 94px;
+}
+.fl{
+    display: flex;
+    background-color: purple;
+    color: white;
+    justify-content: space-between;
+}
+.sl{
+    margin: 0 auto;
+padding-top: 20px;
+}
+.uu{
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    list-style: none;
+}
+.foot{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+
+}
+.co{
+    padding-top: 20px;
+    font-size: 20px;
+}
